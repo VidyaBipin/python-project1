@@ -1,5 +1,4 @@
 [scan_config]
 ignore = [
-    '**/Movie Scraper/',
-    '**/requirements.txt'
+    ''
 ]
